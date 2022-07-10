@@ -1,5 +1,3 @@
-# markdown-crash-course
-
 <!-- Headings -->
 
 # Heading1
